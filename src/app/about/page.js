@@ -48,7 +48,7 @@ export default function AboutPage() {
             <CodeBracketIcon className="h-8 w-8 text-black mt-1" />
             <div>
               <h3 className="font-semibold text-lg mb-1">Custom Web Applications</h3>
-              <p>From internal tools to full-scale platforms — we create software that’s tailored to your needs.</p>
+              <p>From internal tools to full-scale platforms — we create software that is tailored to your needs.</p>
             </div>
           </div>
 
@@ -94,10 +94,10 @@ export default function AboutPage() {
 
       {/* CTA */}
       <section className="max-w-4xl mx-auto text-center">
-        <h2 className="text-2xl font-semibold mb-4">Let’s Build Something Great</h2>
+        <h2 className="text-2xl font-semibold mb-4">Let us Build Something Great</h2>
         <p className="text-gray-600 text-lg mb-6">
           Whether you're a startup or an enterprise, we're ready to help you launch your next product.
-          Get in touch — and let’s make it happen.
+          Get in touch — and let us make it happen.
         </p>
         <a
           href="/contact"

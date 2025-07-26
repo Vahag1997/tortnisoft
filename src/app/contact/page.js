@@ -13,7 +13,7 @@ export default function ContactPage() {
       <section className="max-w-3xl mx-auto text-center mb-16">
         <h1 className="text-4xl font-bold mb-4">Get in Touch</h1>
         <p className="text-lg text-gray-600">
-          We’d love to hear from you. Whether you have a project in mind or just want to connect, reach out and we’ll get back to you as soon as possible.
+          We wouldd love to hear from you. Whether you have a project in mind or just want to connect, reach out and we will get back to you as soon as possible.
         </p>
       </section>
 
