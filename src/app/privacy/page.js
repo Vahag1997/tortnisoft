@@ -20,7 +20,7 @@ export default function PrivacyPolicyPage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Camera Usage</h2>
         <p className="mb-4">
-          The app uses your device's camera to scan Pokemon cards.
+          The app uses your devices camera to scan Pokemon cards.
           Captured images are processed only to identify the card and are not saved, stored, or shared beyond the temporary processing required for app functionality.
         </p>
 
@@ -31,7 +31,7 @@ export default function PrivacyPolicyPage() {
           We do not store any user data on external servers.
         </p>
 
-        <h2 className="text-xl font-semibold mt-8 mb-2">Children's Privacy</h2>
+        <h2 className="text-xl font-semibold mt-8 mb-2">Childrens Privacy</h2>
         <p className="mb-4">
           This app is not intended for children under the age of 13.
           We do not knowingly collect data from children.
