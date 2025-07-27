@@ -62,7 +62,7 @@ export default function PrivacyPolicyPage() {
           If you have any questions or concerns, you may contact us at:
         </p>
         <p className="text-blue-600 underline mb-10">
-          tortnisoft@gmail.com
+          info@tortnisoft.com
         </p>
 
         <p className="text-sm text-gray-500">Last updated: July 27, 2025</p>
