@@ -17,6 +17,7 @@ export default function Header() {
             { label: 'Home', href: '/' },
             { label: 'About', href: '/about' },
             { label: 'Contact', href: '/contact' },
+            { label: 'Privacy Policy', href: '/privacy' },
           ].map((link) => (
             <Link
               key={link.href}
