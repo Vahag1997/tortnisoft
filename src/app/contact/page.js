@@ -26,7 +26,7 @@ export default function ContactPage() {
             href="mailto:contact@tortnisoft.com"
             className="text-gray-600 hover:text-black transition underline"
           >
-            gevorgyanvahag45@gmail.com
+            info@tortnisoft.com
           </a>
         </div>
 
