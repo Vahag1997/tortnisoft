@@ -13,7 +13,7 @@ export default function TermsOfUsePage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">1. Agreement to Terms</h2>
         <p className="mb-4">
-          These Terms of Use ("Terms") are a legal agreement between you and TORTNI SOFT regarding your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms. If you do not agree, do not use the app.
+          These Terms of Use (&quot;Terms&quot;) are a legal agreement between you and TORTNI SOFT regarding your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms. If you do not agree, do not use the app.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">2. License</h2>
@@ -47,7 +47,7 @@ export default function TermsOfUsePage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">7. Disclaimers</h2>
         <p className="mb-4">
-          The app is provided on an "as-is" and "as-available" basis. We make no warranties or guarantees, express or implied, about the reliability or availability of the app. You use the app at your own risk.
+          The app is provided on an &quot;as-is&quot; and &quot;as-available&quot; basis. We make no warranties or guarantees, express or implied, about the reliability or availability of the app. You use the app at your own risk.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">8. Limitation of Liability</h2>
