@@ -30,7 +30,7 @@ export default function ContactPage() {
           </a>
         </div>
 
-        <div className="flex flex-col items-center">
+        {/* <div className="flex flex-col items-center">
           <MapPinIcon className="h-8 w-8 text-black mb-2" />
           <h3 className="text-lg font-semibold mb-1">Location</h3>
           <p className="text-gray-600">Yerevan, Armenia</p>
@@ -40,7 +40,7 @@ export default function ContactPage() {
           <PhoneIcon className="h-8 w-8 text-black mb-2" />
           <h3 className="text-lg font-semibold mb-1">Phone</h3>
           <p className="text-gray-600">+374 55115491</p>
-        </div>
+        </div> */}
       </section>
 
       {/* CTA */}
