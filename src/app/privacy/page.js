@@ -1,6 +1,6 @@
 // app/privacy/page.jsx
 export const metadata = {
-  title: 'Privacy Policy - TORTNI SOFT',
+  title: 'Privacy Policy -AI CLOUD SOLUTIONS',
 };
 
 export default function PrivacyPolicyPage() {
@@ -9,7 +9,7 @@ export default function PrivacyPolicyPage() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
 
-        <p className="mb-4"><strong>Developer:</strong> TORTNI SOFT</p>
+        <p className="mb-4"><strong>Developer:</strong> AI CLOUD SOLUTIONS</p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Privacy and Data Collection</h2>
         <p className="mb-4">
@@ -62,7 +62,7 @@ export default function PrivacyPolicyPage() {
           If you have any questions or concerns, you may contact us at:
         </p>
         <p className="text-blue-600 underline mb-10">
-          info@tortnisoft.com
+          cloudaisolutions008@gmail.com
         </p>
 
         <p className="text-sm text-gray-500">Last updated: July 27, 2025</p>

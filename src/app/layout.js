@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "TORTNI SOFT – Software Development Company",
+  title: "AI CLOUD SOLUTIONS – Software Development Company",
   description:
-    "TORTNI SOFT builds modern mobile apps, AI-powered tools, and scalable digital solutions for startups and enterprises.",
+    "AI CLOUD SOLUTIONS builds modern mobile apps, AI-powered tools, and scalable digital solutions for startups and enterprises.",
   keywords:
-    "Tortni Soft, software development, mobile apps, AI tools, React Native, Next.js, app agency, cloud solutions",
-  authors: [{ name: "TORTNI SOFT", url: "https://tortnisoft.com" }],
-  creator: "TORTNI SOFT",
+    "AI CLOUD SOLUTIONS, software development, mobile apps, AI tools, React Native, Next.js, app agency, cloud solutions",
+  authors: [{ name: "AI CLOUD SOLUTIONS", url: "https://tortnisoft.com" }],
+  creator: "AI CLOUD SOLUTIONS",
   themeColor: "#ffffff",
 };
 

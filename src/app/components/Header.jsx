@@ -8,7 +8,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto flex items-center justify-between px-6 py-4">
         {/* Logo / Brand */}
         <Link href="/" className="text-2xl font-bold text-gray-900 tracking-tight">
-          TORTNI SOFT
+          AI CLOUD SOLUTIONS
         </Link>
 
         {/* Navigation */}

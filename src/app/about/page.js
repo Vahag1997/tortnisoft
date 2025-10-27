@@ -15,9 +15,9 @@ export default function AboutPage() {
     <main className="min-h-screen bg-white text-gray-900 px-6 py-20">
       {/* Intro */}
       <section className="max-w-4xl mx-auto text-center mb-20">
-        <h1 className="text-4xl font-bold mb-4">About TORTNI SOFT</h1>
+        <h1 className="text-4xl font-bold mb-4">About AI CLOUD SOLUTIONS</h1>
         <p className="text-lg text-gray-600">
-          TORTNI SOFT is a modern software company specializing in mobile applications, intelligent tools,
+          AI CLOUD SOLUTIONS is a modern software company specializing in mobile applications, intelligent tools,
           and scalable digital solutions. We work with businesses and startups to design, build, and scale
           technology that performs &mdash; beautifully and reliably.
         </p>

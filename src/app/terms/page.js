@@ -1,6 +1,6 @@
 // app/terms/page.jsx
 export const metadata = {
-  title: 'Terms of Use - TORTNI SOFT',
+  title: 'Terms of Use - AI CLOUD SOLUTIONS',
 };
 
 export default function TermsOfUsePage() {
@@ -13,12 +13,12 @@ export default function TermsOfUsePage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">1. Agreement to Terms</h2>
         <p className="mb-4">
-          These Terms of Use (&quot;Terms&quot;) are a legal agreement between you and TORTNI SOFT regarding your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms. If you do not agree, do not use the app.
+          These Terms of Use (&quot;Terms&quot;) are a legal agreement between you and AI CLOUD SOLUTIONS regarding your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms. If you do not agree, do not use the app.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">2. License</h2>
         <p className="mb-4">
-          TORTNI SOFT grants you a limited, non-exclusive, non-transferable, revocable license to use the app for personal, non-commercial purposes strictly in accordance with these Terms.
+          AI CLOUD SOLUTIONS grants you a limited, non-exclusive, non-transferable, revocable license to use the app for personal, non-commercial purposes strictly in accordance with these Terms.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">3. User Conduct</h2>
@@ -32,7 +32,7 @@ export default function TermsOfUsePage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">4. Intellectual Property</h2>
         <p className="mb-4">
-          All rights, title, and interest in and to the app and its content, including trademarks, logos, and software code, are owned by TORTNI SOFT. You may not use our intellectual property without prior written consent.
+          All rights, title, and interest in and to the app and its content, including trademarks, logos, and software code, are owned by AI CLOUD SOLUTIONS. You may not use our intellectual property without prior written consent.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">5. Privacy</h2>
@@ -52,7 +52,7 @@ export default function TermsOfUsePage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">8. Limitation of Liability</h2>
         <p className="mb-4">
-          To the fullest extent permitted by law, TORTNI SOFT shall not be liable for any indirect, incidental, special, or consequential damages resulting from your use of the app.
+          To the fullest extent permitted by law, AI CLOUD SOLUTIONS shall not be liable for any indirect, incidental, special, or consequential damages resulting from your use of the app.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">9. Changes to the Terms</h2>
@@ -70,7 +70,7 @@ export default function TermsOfUsePage() {
           If you have any questions or concerns about these Terms, please contact us at:
         </p>
         <p className="text-blue-600 underline mb-10">
-          info@tortnisoft.com
+          cloudaisolutions008@gmail.com
         </p>
 
         <p className="text-sm text-gray-500">Last updated: July 27, 2025</p>

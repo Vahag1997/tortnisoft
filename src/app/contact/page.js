@@ -23,10 +23,10 @@ export default function ContactPage() {
           <EnvelopeIcon className="h-8 w-8 text-black mb-2" />
           <h3 className="text-lg font-semibold mb-1">Email</h3>
           <a
-            href="mailto:contact@tortnisoft.com"
+            href="mailto:cloudaisolutions008@gmail.com"
             className="text-gray-600 hover:text-black transition underline"
           >
-            info@tortnisoft.com
+            cloudaisolutions008@gmail.com
           </a>
         </div>
 
@@ -50,7 +50,7 @@ export default function ContactPage() {
           Ready to build something together? Send us a message and let&apos;s bring your idea to life.
         </p>
         <a
-          href="mailto:contact@tortnisoft.com"
+          href="mailto:cloudaisolutions008@gmail.com"
           className="inline-block px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-800 transition"
         >
           Contact Us
