@@ -6,7 +6,6 @@ import {
   WrenchScrewdriverIcon,
 } from "@heroicons/react/24/outline";
 import ServiceCard from "./components/ServiceCard";
-import TestJustTCG from "./components/TestJustTCG";
 
 const CARD_ID = "swsh3-136"; // ✅ same ID fetched in DE & FR
 
@@ -221,7 +220,7 @@ async function countPokeDataJapaneseCards() {
   )}
 </section> */}
 
-<TestJustTCG/>
+
 
 
 
