@@ -18,7 +18,7 @@ export const metadata = {
     "AI CLOUD SOLUTIONS builds modern mobile apps, AI-powered tools, and scalable digital solutions for startups and enterprises.",
   keywords:
     "AI CLOUD SOLUTIONS, software development, mobile apps, AI tools, React Native, Next.js, app agency, cloud solutions",
-  authors: [{ name: "AI CLOUD SOLUTIONS", url: "https://tortnisoft.com" }],
+  authors: [{ name: "AI CLOUD SOLUTIONS", url: "https://aicloudsolutions..app" }],
   creator: "AI CLOUD SOLUTIONS",
   themeColor: "#ffffff",
 };
