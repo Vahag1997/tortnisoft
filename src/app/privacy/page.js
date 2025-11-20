@@ -9,7 +9,9 @@ export default function PrivacyPolicyPage() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
 
-        <p className="mb-4"><strong>Developer:</strong> AI CLOUD SOLUTIONS</p>
+        <p className="mb-4">
+          <strong>Developer:</strong> AI CLOUD SOLUTIONS
+        </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Introduction</h2>
         <p className="mb-4">
@@ -26,11 +28,11 @@ export default function PrivacyPolicyPage() {
           registration. We do not use third-party analytics or advertising SDKs.
         </p>
 
-        <h2 className="text-xl font-semibold mt-8 mb-2">2. Image & Photo Processing</h2>
+        <h2 className="text-xl font-semibold mt-8 mb-2">2. Image &amp; Photo Processing</h2>
         <p className="mb-4">
           Some features of the app allow you to upload or capture photos for editing, AI generation,
           transformations, or recognition. Images may be temporarily sent to AI model providers (such as
-          OpenAI, Google, Anthropic, or Runway) for processing. 
+          OpenAI, Google, Anthropic, or Runway) for processing.
         </p>
         <p className="mb-4 font-semibold">
           We do not store your images on our servers. Images are processed only for the purpose of
@@ -38,17 +40,17 @@ export default function PrivacyPolicyPage() {
         </p>
         <p className="mb-4">
           Face data contained within uploaded images is processed only to perform the requested feature
-          (e.g., transforming the user's photo, applying styles, or generating AI-based edits). We do not
+          (e.g., transforming the user&apos;s photo, applying styles, or generating AI-based edits). We do not
           use face data for identification, verification, facial recognition, or profiling.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">3. Camera Usage</h2>
         <p className="mb-4">
-          If you choose to take a photo using your device's camera, the image is used only inside the app
+          If you choose to take a photo using your device&apos;s camera, the image is used only inside the app
           for the selected feature. Camera data is not stored, shared, or used for any other purpose.
         </p>
 
-        <h2 className="text-xl font-semibold mt-8 mb-2">4. Microphone & Speech Recognition</h2>
+        <h2 className="text-xl font-semibold mt-8 mb-2">4. Microphone &amp; Speech Recognition</h2>
         <p className="mb-4">
           The app may request access to the microphone to enable voice input, speech-to-text, and voice
           commands. Audio is processed only to convert speech into text or to handle your voice request.
@@ -76,7 +78,7 @@ export default function PrivacyPolicyPage() {
           unless you choose to export or share it.
         </p>
 
-        <h2 className="text-xl font-semibold mt-8 mb-2">7. Childrens Privacy</h2>
+        <h2 className="text-xl font-semibold mt-8 mb-2">7. Children&apos;s Privacy</h2>
         <p className="mb-4">
           Our app is not intended for children under the age of 13. We do not knowingly collect data from
           children. If any such data is discovered, we will delete it immediately.
