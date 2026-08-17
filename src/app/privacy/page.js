@@ -1,24 +1,20 @@
 // app/privacy/page.jsx
 export const metadata = {
-  title: "Privacy Policy",
+  title: "AI CLOUD SOLUTIONS Privacy Policy",
 };
 
 export default function PrivacyPolicyPage() {
   return (
     <main className="min-h-screen bg-white text-gray-900 px-6 py-20">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
-
-        <p className="mb-4 text-sm text-gray-600">
-          Effective Date: February 6, 2026
-        </p>
+        <h1 className="text-3xl font-bold mb-6">AI CLOUD SOLUTIONS Privacy Policy</h1>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Introduction</h2>
         <p className="mb-4">
-          This Privacy Policy explains how the app handles information when you use features such as
-          scanning trading cards, viewing card details, saving items to collections, and sharing content.
-          The goal is to keep data collection to a minimum and use information only to provide app
-          functionality.
+          This Privacy Policy explains how applications published by AI CLOUD SOLUTIONS handle
+          information when you use features such as scanning items, viewing details, saving content,
+          and sharing content. The goal is to keep data collection to a minimum and use information
+          only to provide application functionality.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Information the App May Process</h2>
@@ -102,12 +98,12 @@ export default function PrivacyPolicyPage() {
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Changes to This Policy</h2>
         <p className="mb-4">
-          This Privacy Policy may be updated from time to time. Updates will be posted on this page with a
-          revised Effective Date.
+          This Privacy Policy may be updated from time to time. Updates will be posted on this page.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">Contact</h2>
         <p className="mb-1">If you have questions about this Privacy Policy, contact:</p>
+        <p className="mb-1">AI CLOUD SOLUTIONS</p>
         <p className="text-blue-600 underline mb-10">
           cloudaisolutions008@gmail.com
         </p>

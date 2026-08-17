@@ -39,3 +39,28 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local-only: scraped datasets, browser profiles, tooling
+# GitHub holds the Next.js app only -- these live on the machine that runs the scrapers
+/data
+/scripts
+/sql
+
+# scraper entry points (kept local, not part of the app build)
+/cmrkt-stealth-scraper.mjs
+/scrape-all-cards.mjs
+/scrape-global-database.mjs
+/test-cmrkt-scrape.mjs
+/update-counts.mjs
+
+# scraper output and run logs
+*.log
+.daily-*
+.western-*
+.jp-*
+/cardmarket-chart-data.json
+/cmrkt-stealth-log.txt
+/counts-log.txt
+/cmrkt-stealth-check.png
+/test-cmrkt-result.html
+/test-cmrkt-result.png

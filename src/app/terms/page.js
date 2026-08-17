@@ -9,8 +9,6 @@ export default function TermsOfUsePage() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-3xl font-bold mb-6">Terms of Use</h1>
 
-        <p className="mb-4"><strong>Effective Date:</strong> July 27, 2025</p>
-
         <h2 className="text-xl font-semibold mt-8 mb-2">1. Agreement to Terms</h2>
         <p className="mb-4">
           These Terms of Use (&quot;Terms&quot;) are a legal agreement between you and AI CLOUD SOLUTIONS regarding your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms. If you do not agree, do not use the app.
@@ -72,8 +70,6 @@ export default function TermsOfUsePage() {
         <p className="text-blue-600 underline mb-10">
           cloudaisolutions008@gmail.com
         </p>
-
-        <p className="text-sm text-gray-500">Last updated: July 27, 2025</p>
       </div>
     </main>
   );

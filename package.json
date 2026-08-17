@@ -6,7 +6,15 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "refresh:tcgdex": "node scrape-global-database.mjs",
+    "refresh:tcgdex:all": "node scrape-global-database.mjs --all-languages",
+    "update:prices:western": "node scripts/update-western-prices.mjs",
+    "update:prices:jp": "node scripts/update-jp-prices-from-pkmn.mjs",
+    "backfill:history:western": "node scripts/backfill-western-history-from-pkmn.mjs",
+    "backfill:history:auto": "node scripts/backfill-history-supervisor.mjs",
+    "backfill:ebay:urls": "node scripts/backfill-ebay-search-urls.mjs",
+    "cleanup:history:legacy": "node scripts/cleanup-legacy-price-history.mjs"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
